@@ -1,0 +1,6 @@
+ultralytics
+ncnn
+opencv-python
+
+# picamera2 is NOT listed here - it depends on system libcamera bindings
+# and must be installed via apt, not pip. See README.md setup steps.
